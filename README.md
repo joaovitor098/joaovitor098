@@ -16,14 +16,19 @@ Facing the challenges and overcoming my difficulties.
 
 **Technologies and Tools:**
 
-<img height="25" src="https://img.shields.io/badge/react_native-62DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/react-000033.svg?&style=flat-square&logo=react&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/nodejs-00b300.svg?&style=for-the-badge&logo=node.js&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"> </img>
+<img height="25" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"> </img>
+<img height="25" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/javascript-ffff00.svg?&style=for-the-badge&logo=javascript&logoColor=000"></img>
-<img height="25" src="https://img.shields.io/badge/typescript-33adff.svg?&style=for-the-badge&logo=typescript&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/docker-0087c9.svg?&style=flat-square&logo=docker&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/mongodb-3a3a3a.svg?&style=flat-square&logo=mongodb&logoColor=12924f"> </img>
-<img height="25" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/mysql-4479a1.svg?&style=flat-square&logo=mysql&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"> </img>
 
 
 <!-- <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>

@@ -23,7 +23,7 @@ Facing the challenges and overcoming my difficulties.
 <img height="25" src="https://img.shields.io/badge/typescript-33adff.svg?&style=for-the-badge&logo=typescript&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/docker-0087c9.svg?&style=flat-square&logo=docker&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/mongodb-3a3a3a.svg?&style=flat-square&logo=mongodb&logoColor=12924f"> </img>
-<img height="25" src="https://img.shields.io/badge/mysql-4479a1.svg?&style=flat-square&logo=mysql&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"> </img>
 
 
 <!-- <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>

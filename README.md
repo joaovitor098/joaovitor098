@@ -1,7 +1,7 @@
 # João Vítor Alves 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovitoram01/)](https://www.linkedin.com/in/joaovitoram01/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovitor.contato01@gmail.com)](mailto:mailto:joaovitor.contato01@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovitor.contato01@gmail.com)](mailto:joaovitor.contato01@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/JvAlvs)](https://twitter.com/JvAlvs) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@joaovitoram01)](https://medium.com/@joaovitoram01)
 

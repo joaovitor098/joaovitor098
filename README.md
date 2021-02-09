@@ -16,7 +16,17 @@ Facing the challenges and overcoming my difficulties.
 
 **Technologies and Tools:**
 
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
+<img height="25" src="https://img.shields.io/badge/react_native-62DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/react-000033.svg?&style=flat-square&logo=react&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/nodejs-00b300.svg?&style=for-the-badge&logo=node.js&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/javascript-ffff00.svg?&style=for-the-badge&logo=javascript&logoColor=000"></img>
+<img height="25" src="https://img.shields.io/badge/typescript-33adff.svg?&style=for-the-badge&logo=typescript&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/docker-0087c9.svg?&style=flat-square&logo=docker&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/mongodb-3a3a3a.svg?&style=flat-square&logo=mongodb&logoColor=12924f"> </img>
+<img height="25" src="https://img.shields.io/badge/mysql-4479a1.svg?&style=flat-square&logo=mysql&logoColor=white"> </img>
+
+
+<!-- <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
@@ -28,7 +38,7 @@ Facing the challenges and overcoming my difficulties.
 <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase" height="25"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
-<img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" height="25"/>
+<img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" height="25"/> -->
 
 
 
